@@ -92,9 +92,5 @@ python churn_prediction.py
 
 ## 👤 Author
 
-**Ram Krishna Das**
-Aspiring Data Scientist
+**Ramkrishna Das**
 
----
-
-⭐ This project focuses on **business-driven data science**, not just model accuracy.
